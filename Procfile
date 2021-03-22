@@ -1,1 +1,1 @@
-web: gunicorn rudra-auto.wsgi --log-file -
+web: gunicorn car_dealership.wsgi --log-file -
